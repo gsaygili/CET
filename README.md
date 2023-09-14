@@ -11,7 +11,7 @@ This code is the code of our journal publication:
 ***[1] B. Ozgode Yigin and G. Saygili, "Effect of distance measures on confidences of t-SNE embeddings and itsimplications on clustering for scRNA-seq data", Nature Scientific Reports, 2023.***
 
 
-***Please cite our paper [1] in case you use the code.***
+***Please cite our paper [1](https://www.nature.com/articles/s41598-023-32966-x) in case you use the code.***
 
 Created by Busra Ozgode Yigin and Gorkem Saygili on 14-04-23.
 
